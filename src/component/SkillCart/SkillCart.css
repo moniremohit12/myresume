@@ -1,0 +1,36 @@
+
+.item-cart i::before {
+    font-size: 8rem;
+    font-family: devicon;
+    font-style: normal;
+    font-weight: 400;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    color: #4a5286;
+}
+.item-cart {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #c2f0ff;
+    width: 150px;
+    height: 15em;
+    margin-top: 2em;
+    margin: 1em;
+}
+/* @media (min-width: 768px) {
+    .item-cart {
+        background-color: #c2f0ff;
+        width: 150px;
+        height: 15em;
+        margin-top: 2em;
+        margin: 1em;
+        text-align: center;
+    }
+} */
+
+.item-cart:hover {
+    box-shadow: 5px 5px 10px -1px #c1bcbc;
+}

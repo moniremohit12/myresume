@@ -1,0 +1,19 @@
+.carts {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 52vw;
+}
+
+.three {
+    color: #124587;
+}
+
+.color-three {
+    background-color: #e3e3e3;
+}
+
+.color-three-2 {
+    background-color: #ff8e8e;
+}

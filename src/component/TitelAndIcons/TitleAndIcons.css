@@ -1,0 +1,40 @@
+.contaner-icon {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.contaner-icon a {
+    flex: 1 1;
+}
+
+.icons {
+    border: 2px solid #fff;
+    border-radius: 50%;
+}
+
+.icons:hover {
+    box-shadow: 5px 5px 10px -1px #474444;
+}
+
+.icons:not(:last-child) {
+    margin-inline-end: 0.5em;
+}
+
+.first {
+    color: #000;
+}
+
+.color-first-2 {
+    background-color: rgb(47, 155, 155);
+}
+
+.color-first {
+    background-color: rgb(131, 197, 197);
+}
+
+@media (max-width: 48em) {
+    .first {
+        text-align: center;
+    }
+}

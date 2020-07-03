@@ -1,0 +1,79 @@
+
+{
+    "title": "Welcome - My name is Monire !",
+    "subtitle": "Full Stack | React | Html | CSS ",
+    "links": {
+        "Git":"https://github.com/moniremohit12",
+        "Instagram":"https://www.instagram.com/monire_mohit/",
+        "Email":"mailto:m.mohit1373@gmail.com",
+        "Whatsapp": "https://api.whatsapp.com/send?phone=+989124940538"
+    },
+    "section": [
+        {
+            "title": "About me",
+            "items": [
+                {
+                    "type": "p",
+                    "content": "My name is : Monire Mohit"
+                },
+                {
+                    "type": "p",
+                    "content": "I am : Mechanical Engineer"
+                },
+                {
+                    "type": "p",
+                    "content": "I studied in : Birjand State University"
+                },
+                {
+                    "type": "p",
+                    "content": "I'm interested in learning new things"
+                },
+                {
+                    "type": "p",
+                    "content": "Experienced developer with a demonstrated history of working in the web and web app development industry. UX and UI Expert, graduated from Islamic Azad University."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "items": [
+                {
+                    "type": "card",
+                    "content" : {
+                        "title": "Html",
+                        "alt": "Html",
+                        "logo": "devicon-html5-plain-wordmark"
+                    }
+
+                },
+                {
+                    "type": "card",
+                    "content" : {
+                        "title": "Css",
+                        "alt": "Css",
+                        "logo": "devicon-css3-plain-wordmark"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content" : {
+                        "title": "React",
+                        "alt": "React",
+                        "logo": "devicon-react-original colored"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "title": "JavaScript",
+                        "alt": "JavaScript",
+                        "logo": "devicon-javascript-plain"
+                    }
+                }
+            ]
+        }
+    ],
+    "icons": {
+        "wizard": "./image/wizard.png"
+    }
+}

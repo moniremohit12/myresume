@@ -1,0 +1,19 @@
+html,
+body {
+  font-family: "Comic Neue",cursive,'Roboto', sans-ser , tahoma;
+  margin: 0;
+  height: 100vh;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: hsla(214, 70%, 78%,0.6);
+}
+
+.magic {
+  padding: 1em;
+}
